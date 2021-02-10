@@ -1,0 +1,9 @@
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.posterImg img {
+    width: 90%;
+    height: 90%;
+}

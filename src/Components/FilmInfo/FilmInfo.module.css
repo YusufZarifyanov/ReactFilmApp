@@ -1,0 +1,33 @@
+.wrap {
+    /*width: 80%;*/
+    margin: 5% auto;
+
+    font-family: 'Open Sans', sans-serif;
+    color: #909b9c;
+    font-size: 90%;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.posterImg{
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+
+
+.list {
+    text-align:left;
+    font-size: 24px;
+}
+
+.elem {
+    padding: 10px;
+}
+
+.smallTagline {
+    font-size: 20px;
+}
